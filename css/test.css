@@ -1,0 +1,122 @@
+.logo{
+width: 80px;
+padding-left: 250px;
+}
+.logo1{
+  width: 300px;
+}
+.about {
+  background-color: white;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    }
+
+div {
+    background-color: #a6dcef;
+    border-bottom: 0;
+    padding-left: 0;
+    }
+
+body{
+  display: block;
+  margin: 0;
+}
+
+.left{
+  margin-left: 600px;
+}
+
+
+input{
+  width: 100px;
+  height: 40px;
+  border-style: none;
+  font-style: oblique;
+  font-family: cursive;
+}
+
+.second{
+  background-color: #a6dcef;
+  height: 710px;
+  padding-left: 550px;
+}
+
+.title{
+  margin-top: 0;
+  font-size: 500%;
+  font-family: cursive;
+  font-style: italic;
+  padding-top: 50px;
+  padding-bottom: 0;
+ }
+
+.subtitle{
+   font-size: 160%;
+   font-family: cursive;
+   font-style: oblique;
+   padding-left: 140px;
+   color: #251f44;
+ }
+
+.abouttitle{
+font-size: 200%;
+font-style: oblique;
+font-family: cursive;
+margin-top: 0;
+margin: 0;
+color: red;
+}
+
+.aboutnotes{
+  font-size: 150%;
+  font-style: oblique;
+  font-family: cursive;
+  color: #251f44;
+}
+
+.support{
+  width: 200px;
+  font-style: oblique;
+  font-family: monospace;
+  font-size: 20px;
+  background-color: #a2de96;
+  text-decoration: none;
+  color: black;
+}
+
+.bottom{
+  background-color: #e2979c;
+  font-style: oblique;
+  font-family: sans-serif;
+}
+
+.bottomimg{
+  border-style: solid;
+  margin-left: 600px;
+  background-color: #e2979c;
+  font-size: 15px;
+  font-family: cursive;
+  text-decoration: none;
+  color: black;
+}
+
+.bottomimg1{
+  border-style: solid;
+  margin-left: 50px;
+  background-color: #e2979c;
+  font-size: 15px;
+  font-family: cursive;
+  text-decoration: none;
+  color: black;
+}
+
+.bottomimg2{
+  border-style: solid;
+  margin-left: 50px;
+  background-color: #e2979c;
+  font-size: 15px;
+  margin-bottom: 0;
+  font-family: cursive;
+  text-decoration: none;
+  color: black;
+}
