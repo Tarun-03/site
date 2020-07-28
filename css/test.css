@@ -1,6 +1,7 @@
 .logo{
 width: 20%;
-padding-left: 5%;
+position: relative;
+right: 10%;
 }
 .logo1{
   width: 30%;
@@ -25,20 +26,30 @@ body{
 .left{
   height:40px;
   width: 150%;
-  margin-left: 800%;
+  position: relative;
+  left: 800%;
+
 
 }
 
 .right{
   height:40px;
   width: 150%;
-  margin-left: 1300%;
+  position: relative;
+  left: 1295%;
 }
+
+.landimage{
+  position: relative;
+  left: 20%;
+}
+
 
 .center{
   height:40px;
   width: 175%;
-  margin-left: 400%;
+  position: relative;
+  left: 400%;
 }
 
 input{
@@ -53,7 +64,6 @@ input{
 .second{
   background-color: #a6dcef;
   height: 710px;
-  padding-left: 30%;
 }
 
 .title{
@@ -63,13 +73,16 @@ input{
   font-style: italic;
   padding-top: 50px;
   padding-bottom: 0;
- }
+  position: relative;
+  left: 30%;
+}
 
 .subtitle{
    font-size: 160%;
    font-family: cursive;
    font-style: oblique;
-   padding-left: 140px;
+   position: relative;
+   left: 40%;
    color: #251f44;
  }
 
@@ -107,17 +120,19 @@ color: red;
 
 .bottomimg{
   border-style: solid;
-  margin-left: 600px;
   background-color: #e2979c;
   font-size: 15px;
   font-family: cursive;
   text-decoration: none;
   color: black;
+  position: relative;
+  left: 900%;
 }
 
 .bottomimg1{
   border-style: solid;
-  margin-left: 50px;
+  position: relative;
+  left: 900%;
   background-color: #e2979c;
   font-size: 15px;
   font-family: cursive;
@@ -127,7 +142,8 @@ color: red;
 
 .bottomimg2{
   border-style: solid;
-  margin-left: 50px;
+  position: relative;
+  left: 900%;
   background-color: #e2979c;
   font-size: 15px;
   margin-bottom: 0;
