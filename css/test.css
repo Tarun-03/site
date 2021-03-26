@@ -52,8 +52,7 @@ body{
   color: green;
   font-style: oblique;
   font-family: cursive;
-  border-style: dashed;
-  border-color: red;
+  border-style: outset;
 
 }
 
@@ -74,8 +73,7 @@ body{
   color: green;
   font-style: oblique;
   font-family: cursive;
-  border-style: dashed;
-  border-color: red;
+  border-style: outset;
 }
 
 input{
